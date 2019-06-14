@@ -1,0 +1,3 @@
+rootProject.name = 'nikktionary_4650'
+
+include ':app'
